@@ -5,7 +5,7 @@
 
 - 🔭 IT Consulting mainly on Salesforce, sharing my journey and learnings in tech<br/>
 - 🌱 Working on certifications for Salesforce while beginning to explore the world of Python
-- 🤔 Eventually I would want to create an original game or app that will be available on the Apple app store
+- 🤔 Eventually I want to create an original game or app that will be available on the Apple app store
 - ⚡ I've experienced bits of html, css, python, java, javascript, Apex(Salesforce), CLI, SQL, SOQL, Scratch
 
 # 💻 Tech Stack:
