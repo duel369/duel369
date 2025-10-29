@@ -1,12 +1,12 @@
-## Hi, I'm Kiko!
+## Hey there, I'm Ryo!
 
 <!--
 **duel369/duel369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 IT Consulting mainly on Salesforce, sharing my journey and learnings in tech<br/>
-- 🌱 Working on certifications for Salesforce while beginning to explore the world of Python
+- 🌱 Working on certifications for Salesforce while exploring the world of coding
 - 🤔 Eventually I want to create an original game or app that will be available on the Apple app store
-- ⚡ I've experienced bits of html, css, python, java, javascript, Apex(Salesforce), CLI, SQL, SOQL, Scratch
+- ⚡ I've experienced bits of html, css, python, java, javascript, Apex(Salesforce), SQL, SOQL
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
