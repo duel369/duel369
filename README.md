@@ -1,4 +1,4 @@
-## Hey there, I'm Ryo!
+## Hey there, I'm Kiko!
 
 <!--
 **duel369/duel369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
